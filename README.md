@@ -9,14 +9,14 @@ One important aspect of this dataset is the pricing information. The recorded pr
 
 ## Features:
 
--Company Name: The brand or manufacturer of the mobile phone.
--Model Name: The specific model of the smartphone.
--Mobile Weight: The weight of the mobile phone (in grams).
--RAM: The amount of Random Access Memory (RAM) in the device (in GB).
--Front Camera: The resolution of the front (selfie) camera (in MP).
--Back Camera: The resolution of the primary rear camera (in MP).
--Processor: The chipset or processor used in the device.
--Battery Capacity: The battery size of the smartphone (in mAh).
--Screen Size: The display size of the smartphone (in inches).
--Launched Price: (Pakistan, India, China, USA, Dubai): The official launch price of the mobile in the respective country at the time of its release. Prices vary based on the year the mobile was launched.
--Launched Year: The year the mobile phone was officially launched.
+- Company Name: The brand or manufacturer of the mobile phone.
+- Model Name: The specific model of the smartphone.
+- Mobile Weight: The weight of the mobile phone (in grams).
+- RAM: The amount of Random Access Memory (RAM) in the device (in GB).
+- Front Camera: The resolution of the front (selfie) camera (in MP).
+- Back Camera: The resolution of the primary rear camera (in MP).
+- Processor: The chipset or processor used in the device.
+- Battery Capacity: The battery size of the smartphone (in mAh).
+- Screen Size: The display size of the smartphone (in inches).
+- Launched Price: (Pakistan, India, China, USA, Dubai): The official launch price of the mobile in the respective country at the time of its release. Prices vary based on the year the mobile was launched.
+- Launched Year: The year the mobile phone was officially launched.
